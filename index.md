@@ -41,3 +41,11 @@ print('Hello World')
 And now for incuding images in our file:
 
 ![Yaktocat Image](https://octodex.github.com/images/yaktocat.png)
+
+
+##Task list:
+
+- [ ] This is an example of an unchecked task item.
+- [x] This is an example of a checked task item.
+- [x] This item is complete.
+- [ ] This item is incomplete.
