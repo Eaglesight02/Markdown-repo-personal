@@ -38,3 +38,6 @@ int a = 67
 print(a)
 print('Hello World')
 ```
+And now for incuding images in our file:
+
+![Yaktocat Image](https://octodex.github.com/images/yaktocat.png)
